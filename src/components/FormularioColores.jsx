@@ -21,8 +21,8 @@ const FormularioColores = () => {
 
   return (
     <seccion>
-        <div className="bg-light p-4 rounded shadow-sm mb-4 text-center">
-            <h2 className="fw-bolder">Paleta de colores</h2>
+        <div className="bg-light opacity-75 p-4 rounded shadow-sm mb-4 text-center">
+            <h2 className="fw-bolder text-primary">Paleta de colores</h2>
             <Form onSubmit={handleSubmit} className="d-flex justify-content-center">
                 <Form.Group className="m-3  d-flex">
                     <Form.Label>Seleccione un color: </Form.Label>
