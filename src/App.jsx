@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <main className="container my-5">
+      <main className="container my-5 w-75">
         <FormularioColores></FormularioColores>
       </main>
       <footer className="bg-dark text-light text-center py-3">

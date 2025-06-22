@@ -26,7 +26,7 @@ const FormularioColores = () => {
               title="Choose your color"
               onChange={(e)=> setColor(e.target.value)}
             />
-          <Button variant="warning" type="submit" className="text-center mx-2">
+          <Button variant="primary" type="submit" className="text-center mx-2">
             + Agregar
           </Button>
         </Form.Group>
