@@ -3,13 +3,13 @@ import Row from 'react-bootstrap/Row';
 
 import CardColor from './CardColor';
 
-const GridColores = ({colores}) => {
+const GridColores = ({colores, borrarColor}) => {
     return (
         <div>
             <Container>
                 <Row>
                     {
-                       colores.map((item, indice)=> <CardColor key={indice} color={item}></CardColor>)
+                       colores.map((item, indice)=> <CardColor key={indice} color={item} borrarColor={borrarColor}></CardColor>)
                     }
                 </Row>
             </Container>

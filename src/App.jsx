@@ -9,6 +9,7 @@ function App() {
         <FormularioColores></FormularioColores>
       </main>
       <footer className="bg-dark text-light text-center py-3">
+        <p>💻 Omar Mattos 💻</p>
         <p>&copy; Todos los derechos reservados</p>
       </footer>
     </>
