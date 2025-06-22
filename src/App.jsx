@@ -1,10 +1,16 @@
 import "bootstrap/dist/css/bootstrap.min.css";
+import FormularioColores from "./components/FormularioColores";
 
 function App() {
 
   return (
     <>
-      <h1>Hola Mundo</h1>
+      <main className="container my-5">
+        <FormularioColores></FormularioColores>
+      </main>
+      <footer className="bg-dark text-light text-center py-3">
+        <p>&copy; Todos los derechos reservados</p>
+      </footer>
     </>
   )
 }
