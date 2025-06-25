@@ -6,7 +6,7 @@ import CardColor from './CardColor';
 const GridColores = ({colores, borrarColor}) => {
     return (
         <div>
-            <Container>
+            <Container> 
                 <Row>
                     {
                        colores.map((item, indice)=> <CardColor key={indice} color={item} borrarColor={borrarColor}></CardColor>)
