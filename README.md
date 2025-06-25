@@ -1,12 +1,59 @@
-# React + Vite
+# 🎨 Paleta de Colores Interactiva
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Autor:** Omar Mattos ✨  
+Una aplicación web para generar, explorar y personalizar paletas de colores armónicas. Perfecta para diseñadores y desarrolladores!
 
-Currently, two official plugins are available:
+## 🌈 Características principales
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🎨 Generación de colores
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 💻 Interfaz de usuario
+- 📱 Diseño 100% responsive
+- 🎚️ Controles intuitivos
+
+
+## 🛠️ Tecnologías utilizadas
+
+```plaintext
+Frontend:
+- HTML5
+- CSS3
+- JavaScript ES6+
+- React
+```
+
+## 🚀 Cómo comenzar
+
+1. Clona el repositorio:
+```bash
+git clone https://github.com/omarmatt31/06paletaDeColores.git
+```
+
+2. Instala dependencias:
+npm install
+```
+
+3. Inicia la aplicación:
+```bash
+npm run dev
+```
+
+## 💡 Casos de uso
+
+- 🖌️ Diseño de interfaces
+- 🎨 Selección de branding
+- 🖥️ Temas para desarrollo web
+- 🧑‍🎨 Proyectos creativos
+- 🏗️ Sistemas de diseño
+
+
+
+## 📜 Licencia
+
+[Omar Mattos](https://github.com/omarmatt31)  
+
+📧 **Contacto**:  
+Para colaboraciones profesionales, contáctame a través de mi perfil de GitHub.
+
+**¡Crea combinaciones perfectas!** 🟢🔵🟣
